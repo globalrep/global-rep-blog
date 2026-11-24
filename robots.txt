@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://globalrep.github.io/global-rep-blog/sitemap.xml
